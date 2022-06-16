@@ -1,0 +1,13 @@
+/*
+POINTER TO A POINTER
+=>  JUST LIKE j IS POINTING TO i OR STORING THE ADDRESS OF i, WE CAN HAVE ANOTHER VARIABLE k WHICH CAN FURTHER STORE THE ADDRESS OF j.
+    THE TYPE OF k WILL BE int**
+
+    =>  int **k;
+        int *j;
+        int i =42;
+        j = &i;
+        k = &j;
+
+
+*/

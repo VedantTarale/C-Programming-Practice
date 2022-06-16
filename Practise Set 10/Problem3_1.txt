@@ -1,0 +1,1 @@
+Hello. This a sample text for Problem3.c
